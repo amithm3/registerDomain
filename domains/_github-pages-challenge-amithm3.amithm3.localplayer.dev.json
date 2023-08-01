@@ -1,0 +1,16 @@
+{
+    "description": "GitHub Pages Verification",
+
+    "domain": "localplayer.dev",
+    "subdomain": "_github-pages-challenge-amithm3.amithm3",
+
+    "owner": {
+        "email": "amithmundur@gmail.com"
+    },
+
+    "record": {
+        "TXT": ["1612766b44469252f58c0a71cae623"]
+    },
+
+    "proxied": false
+}
